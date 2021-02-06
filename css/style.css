@@ -1,0 +1,16 @@
+.btn {
+    background-color: #00bac1;
+    border-color: #00bac1;
+}
+#form-wrap {
+    border-radius: 2px;
+    border-top: 2px solid #00bac1;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(227, 233, 243) 0px 2px 4px 0px;
+}
+#ty-wrap {
+    display: none;
+}
+p.ty-wrap {
+    font-size: 1.5rem;
+}
